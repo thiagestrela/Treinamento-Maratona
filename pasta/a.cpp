@@ -23,8 +23,5 @@ const int MAXN = 10004;
 const int modn = 1000000007;
 
 int main() {
-    int x;
-    printf("TROUXA\n");
-    return 0;
 }
 
